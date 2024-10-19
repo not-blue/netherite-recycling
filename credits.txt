@@ -1,4 +1,4 @@
-Pack name:  
-Pack URL:   
+Pack name:  Netherite Recycling
+Pack URL:   https://modrinth.com/datapack/netherite-recycling
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
