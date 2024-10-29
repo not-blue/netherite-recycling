@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "category": "misc",
   "group": "netherite_scrap",
-  "ingredient": "netherite_recycling:recycles_to_netherite_scrap",
+  "ingredient": "#netherite_recycling:recycles_to_netherite_scrap",
   "result": {
     "id": "minecraft:netherite_scrap"
   },
