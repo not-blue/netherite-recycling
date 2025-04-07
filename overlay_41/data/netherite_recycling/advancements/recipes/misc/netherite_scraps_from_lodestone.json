@@ -1,0 +1,35 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "netherite_recycling:netherite_scraps_from_lodestone"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      },
+      "has_lodestone": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:netherite_scrap"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_lodestone",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "netherite_recycling:netherite_scraps_from_lodestone"
+      ]
+    },
+    "sends_telemetry_event": false
+  }
