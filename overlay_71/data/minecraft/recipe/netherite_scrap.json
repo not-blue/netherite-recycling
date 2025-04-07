@@ -2,12 +2,10 @@
   "type": "minecraft:smelting",
   "category": "misc",
   "group": "netherite_scrap",
-  "ingredient": {
-    "tag": "netherite_recycling:recycles_to_netherite_scrap"
-  },
+  "ingredient": "minecraft:ancient_debris",
   "result": {
     "id": "minecraft:netherite_scrap"
   },
-  "experience": 0.1,
+  "experience": 2,
   "cookingtime": 200
 }
