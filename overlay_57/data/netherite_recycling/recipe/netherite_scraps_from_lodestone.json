@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": "minecraft:lodestone",
-    "result": {
-      "id": "minecraft:netherite_scrap",
-      "count": 2
-    }
-  }
