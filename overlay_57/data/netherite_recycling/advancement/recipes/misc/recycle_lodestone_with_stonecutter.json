@@ -4,7 +4,7 @@
       "has_the_recipe": {
         "trigger": "minecraft:recipe_unlocked",
         "conditions": {
-          "recipe": "netherite_recycling:netherite_scraps_from_lodestone"
+          "recipe": "netherite_recycling:recycle_lodestone_with_stonecutter"
         }
       },
       "has_lodestone": {
@@ -26,7 +26,7 @@
     ],
     "rewards": {
       "recipes": [
-        "netherite_recycling:netherite_scraps_from_lodestone"
+        "netherite_recycling:recycle_lodestone_with_stonecutter"
       ]
     }
   }
