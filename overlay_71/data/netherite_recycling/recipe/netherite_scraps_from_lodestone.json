@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:lodestone",
+    "result": {
+      "id": "minecraft:iron_nugget",
+      "count": 5
+    }
+  }
