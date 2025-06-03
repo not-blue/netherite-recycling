@@ -5,7 +5,7 @@
       "min_inclusive": 48,
       "max_inclusive": 999
     },
-    "description": "Recycle netherite tools and armor into netherite scrap. For 1.21+."
+    "description": "Recycle netherite tools and armor into netherite scrap."
   },
   "overlays": {
     "entries": [
