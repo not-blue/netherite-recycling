@@ -3,7 +3,7 @@
     "pack_format": 48,
     "supported_formats": {
       "min_inclusive": 48,
-      "max_inclusive": 999
+      "max_inclusive": 81
     },
     "description": "Recycle netherite tools and armor into netherite scrap."
   },
@@ -12,14 +12,14 @@
       {
         "formats": {
           "min_inclusive": 57,
-          "max_inclusive": 999
+          "max_inclusive": 81
         },
         "directory": "overlay_57"
       },
       {
         "formats": {
           "min_inclusive": 71,
-          "max_inclusive": 999
+          "max_inclusive": 81
         },
         "directory": "overlay_71"
       }
