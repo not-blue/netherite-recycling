@@ -1,7 +1,16 @@
 {
   "pack": {
     "min_format": [88, 0],
-    "max_format": [88, 0],
+    "max_format": [999, 0],
     "description": "Recycle netherite tools and armor into netherite scrap."
-  }
+  },
+	"overlays": {
+		"entries": [
+			{
+				"min_format": [89, 0],
+				"max_format": [999, 0],
+				"directory": "overlay_snapshot"
+			}
+		]
+	}
 }
